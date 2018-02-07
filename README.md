@@ -30,7 +30,7 @@ Open the terminal, by pressing <kbd>Cmd</kbd> + <kbd>Space</kbd>. Then, write `T
 git clone https://github.com/RCODI/visual-data.git
 
 # Enter in the downloaded directory
-cd visual-similarity-ssim
+cd visual-data
 
 # Install the dependencies (run once)
 npm install
