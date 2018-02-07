@@ -1,0 +1,31 @@
+{
+  "name": "visual-similarity-ssim",
+  "version": "1.0.0",
+  "description": "Get the SSIM image similarities between websites.",
+  "main": "index.js",
+  "dependencies": {
+    "bindy": "^1.0.5",
+    "cli-table": "^0.3.1",
+    "fast-csv": "^2.3.0",
+    "fs-file-tree": "^1.0.0",
+    "idy": "^1.2.5",
+    "image-parser": "^1.2.1",
+    "daty": "^1.0.9",
+    "img-ssim": "^1.0.0",
+    "is-there": "^4.3.6",
+    "iterate-object": "^1.3.2",
+    "jquery": "^3.1.1",
+    "json2md": "^1.5.5",
+    "mkdirp": "^0.5.1",
+    "nightmare": "^2.7.0",
+    "one-by-one": "^3.2.1",
+    "opencv": "IonicaBizauKitchen/node-opencv",
+    "parse-url": "^1.3.5",
+    "r-json": "^1.2.5",
+    "read-utf8": "^1.2.5",
+    "same-time": "^2.3.1",
+    "same-time-limit": "^1.0.4",
+    "streamp": "^2.2.5",
+    "w-json": "^1.3.5"
+  }
+}

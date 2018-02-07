@@ -1,0 +1,6191 @@
+[
+  {
+    "listName": "GreenIronHack-Phase4",
+    "results": [
+      [
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-abelal16-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.6",
+          "features2d": "69.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.7",
+          "features2d": "91.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.1",
+          "features2d": "42.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.2",
+          "features2d": "76.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.2",
+          "features2d": "99.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "31.9",
+          "features2d": "98.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.1",
+          "features2d": "87.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "32.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.8",
+          "features2d": "70.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "93.5",
+          "features2d": "58.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.5",
+          "features2d": "78.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "39.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.5",
+          "features2d": "83.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.1",
+          "features2d": "99.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.3",
+          "features2d": "99.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.4",
+          "features2d": "97.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "88.7",
+          "features2d": "65.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.0",
+          "features2d": "42.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.5",
+          "features2d": "70.1"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.5",
+          "features2d": "83.2"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.6",
+          "features2d": "92.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.1",
+          "features2d": "80.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "94.8",
+          "features2d": "64.5"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "36.8"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "45.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "55.9",
+          "features2d": "42.3"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "41.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.4",
+          "features2d": "40.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "58.3",
+          "features2d": "40.5"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "82.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.7",
+          "features2d": "92.3"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.5",
+          "features2d": "93.6"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.9",
+          "features2d": "94.3"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "79.3"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "82.2",
+          "features2d": "71.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "90.1",
+          "features2d": "69.1"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "30.3",
+          "features2d": "98.3"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "82.2",
+          "features2d": "76.7"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "89.1",
+          "features2d": "67.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "90.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "88.9",
+          "features2d": "60.6"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "ERROR",
+          "features2d": "100.0"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-dengc-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "71.6",
+          "features2d": "45.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-dengc-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "71.6",
+          "features2d": "54.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "9.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10"
+          ],
+          "ssim": "10.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11"
+          ],
+          "ssim": "20.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "8.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "8.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "8.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "7.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "7.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "8.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "7.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "5.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "82.9",
+          "features2d": "42.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "65.8",
+          "features2d": "81.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "65.8",
+          "features2d": "80.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "40.4",
+          "features2d": "30.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "40.3",
+          "features2d": "26.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "40.9",
+          "features2d": "23.8"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "39.4",
+          "features2d": "27.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "40.9",
+          "features2d": "21.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-dengc-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "98.6",
+          "features2d": "27.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "90.8",
+          "features2d": "34.9"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "74.6",
+          "features2d": "35.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "74.6",
+          "features2d": "37.7"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "44.7",
+          "features2d": "18.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "44.7",
+          "features2d": "20.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "44.7",
+          "features2d": "14.9"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "44.6",
+          "features2d": "23.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "44.7",
+          "features2d": "8.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "91.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "74.6",
+          "features2d": "64.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "74.7",
+          "features2d": "55.5"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "44.8",
+          "features2d": "30.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "44.8",
+          "features2d": "29.6"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "44.8",
+          "features2d": "29.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "44.7",
+          "features2d": "32.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "44.8",
+          "features2d": "15.8"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10"
+          ],
+          "ssim": "60.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11"
+          ],
+          "ssim": "58.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "40.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "43.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "48.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "46.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "66.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "47.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "45.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "47.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "-0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "-0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11"
+          ],
+          "ssim": "57.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "50.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "58.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "62.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "67.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "65.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "60.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "48.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "50.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "1.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "1.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#10",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "47.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "53.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "73.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "60.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "55.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "59.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "65.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "54.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "-2.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "-2.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#11",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "49.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "43.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "47.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "44.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "52.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "44.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "46.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "1.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "1.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "54.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "44.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "56.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "52.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "43.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "52.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "0.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "-0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "46.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "49.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "47.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "50.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "45.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "46.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "44.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "40.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "38.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "-1.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "-1.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#5",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7"
+          ],
+          "ssim": "39.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "50.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "50.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "-0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "-0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "-0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "-0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#6",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "-0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8"
+          ],
+          "ssim": "45.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "43.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "1.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "1.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#7",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9"
+          ],
+          "ssim": "47.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#8",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "greenironhack-megahenry-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "1.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "0.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "-0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "-0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "-0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "-0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||#9",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "-0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#1"
+          ],
+          "ssim": "79.5",
+          "features2d": "84.6"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "79.5",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "48.2",
+          "features2d": "38.7"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "48.2",
+          "features2d": "42.3"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "48.3",
+          "features2d": "48.7"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "48.2",
+          "features2d": "43.2"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "48.3",
+          "features2d": "26.1"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "lostkuma.herokuapp.com|||#2"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "42.2",
+          "features2d": "40.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "42.2",
+          "features2d": "43.9"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "42.2",
+          "features2d": "38.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "42.2",
+          "features2d": "42.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "42.2",
+          "features2d": "18.5"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#1"
+          ],
+          "ssim": "42.2",
+          "features2d": "35.7"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "42.2",
+          "features2d": "45.1"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "42.3",
+          "features2d": "38.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "42.2",
+          "features2d": "43.9"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "42.3",
+          "features2d": "19.1"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#2"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#1",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#3"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#2",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#4"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#3",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "sauravn-application.herokuapp.com|||#4",
+            "sauravn-application.herokuapp.com|||#5"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-abelal16-2016.herokuapp.com|||"
+          ],
+          "ssim": "92.2",
+          "features2d": "94.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.0",
+          "features2d": "86.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "39.9",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "75.2",
+          "features2d": "70.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.8",
+          "features2d": "57.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "83.7",
+          "features2d": "73.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.3",
+          "features2d": "89.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "58.2",
+          "features2d": "91.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.0",
+          "features2d": "36.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.1",
+          "features2d": "80.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.7",
+          "features2d": "86.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.5",
+          "features2d": "77.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.9",
+          "features2d": "90.8"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.6",
+          "features2d": "21.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.2",
+          "features2d": "84.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.8",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "65.9",
+          "features2d": "32.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "63.4",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "74.6",
+          "features2d": "65.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.7",
+          "features2d": "42.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "84.9",
+          "features2d": "64.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.3",
+          "features2d": "85.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.6",
+          "features2d": "94.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.2",
+          "features2d": "82.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.7",
+          "features2d": "31.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.6",
+          "features2d": "82.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.7",
+          "features2d": "92.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "10.9",
+          "features2d": "72.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "86.8",
+          "features2d": "83.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.1",
+          "features2d": "25.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.7",
+          "features2d": "81.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.9",
+          "features2d": "73.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "67.3",
+          "features2d": "38.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "63.0",
+          "features2d": "83.6"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "76.4",
+          "features2d": "45.8"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "50.7",
+          "features2d": "62.4"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.5",
+          "features2d": "70.5"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.1",
+          "features2d": "87.5"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.3",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.2",
+          "features2d": "76.3"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.9",
+          "features2d": "39.8"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.5",
+          "features2d": "73.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.1",
+          "features2d": "84.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.1",
+          "features2d": "85.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "87.0",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.9",
+          "features2d": "20.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.0",
+          "features2d": "81.1"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.9",
+          "features2d": "58.2"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "68.9",
+          "features2d": "36.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "64.5",
+          "features2d": "66.3"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "44.7",
+          "features2d": "63.3"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "35.1",
+          "features2d": "59.8"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "31.5",
+          "features2d": "72.5"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.7",
+          "features2d": "93.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.1",
+          "features2d": "79.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "37.8",
+          "features2d": "88.2"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "33.0",
+          "features2d": "35.6"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.3",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.7",
+          "features2d": "91.3"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "39.5",
+          "features2d": "94.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "27.8",
+          "features2d": "77.3"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.5",
+          "features2d": "14.6"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.7",
+          "features2d": "81.2"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.2",
+          "features2d": "48.2"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "30.8",
+          "features2d": "23.2"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "22.3",
+          "features2d": "73.4"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.4",
+          "features2d": "52.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.6",
+          "features2d": "92.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "77.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "77.5",
+          "features2d": "78.3"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "46.7",
+          "features2d": "66.8"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.2",
+          "features2d": "68.7"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "57.0",
+          "features2d": "36.9"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "34.1",
+          "features2d": "64.2"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "76.6",
+          "features2d": "74.9"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.1",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "58.5",
+          "features2d": "70.8"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.3",
+          "features2d": "18.9"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "77.0",
+          "features2d": "55.7"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "22.3",
+          "features2d": "64.5"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "59.8",
+          "features2d": "27.6"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "1.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "51.7",
+          "features2d": "59.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "46.8",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "50.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "50.3",
+          "features2d": "51.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.7",
+          "features2d": "52.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.3",
+          "features2d": "57.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "20.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "32.6",
+          "features2d": "35.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "41.2",
+          "features2d": "79.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.4",
+          "features2d": "43.6"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.6",
+          "features2d": "56.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.2",
+          "features2d": "53.9"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "14.7",
+          "features2d": "17.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.4",
+          "features2d": "46.6"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.3",
+          "features2d": "34.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "35.6",
+          "features2d": "22.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "34.7",
+          "features2d": "40.8"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-ishtasingh-2016.herokuapp.com|||"
+          ],
+          "ssim": "88.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "87.4",
+          "features2d": "70.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.6",
+          "features2d": "66.2"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "82.7",
+          "features2d": "71.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "57.9",
+          "features2d": "42.8"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "63.1",
+          "features2d": "84.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.7",
+          "features2d": "76.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "10.4",
+          "features2d": "75.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "79.0",
+          "features2d": "71.1"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.7",
+          "features2d": "16.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "86.7",
+          "features2d": "77.6"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.9",
+          "features2d": "46.8"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "62.3",
+          "features2d": "23.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "59.1",
+          "features2d": "73.1"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-jkeilmann-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "67.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "88.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "69.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-ishtasingh-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "65.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.1",
+          "features2d": "98.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.0",
+          "features2d": "86.7"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.1",
+          "features2d": "22.8"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "67.3",
+          "features2d": "78.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.2",
+          "features2d": "92.8"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.7",
+          "features2d": "71.4"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "87.6",
+          "features2d": "85.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.8",
+          "features2d": "21.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.7",
+          "features2d": "82.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.3",
+          "features2d": "65.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "69.1",
+          "features2d": "30.5"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-jkeilmann-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "65.1",
+          "features2d": "81.3"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "56.6",
+          "features2d": "85.3"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "-0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "47.2",
+          "features2d": "22.3"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.8",
+          "features2d": "81.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.8",
+          "features2d": "83.1"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "63.0",
+          "features2d": "73.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "46.5",
+          "features2d": "87.8"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.5",
+          "features2d": "20.8"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "84.3"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "17.7",
+          "features2d": "78.2"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "42.6",
+          "features2d": "27.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "35.4",
+          "features2d": "69.3"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "57.2",
+          "features2d": "24.4"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.7",
+          "features2d": "87.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.7",
+          "features2d": "90.3"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.0",
+          "features2d": "73.5"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "82.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.2",
+          "features2d": "20.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.4",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.2",
+          "features2d": "62.4"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "64.7",
+          "features2d": "42.7"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "60.6",
+          "features2d": "65.2"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.7",
+          "features2d": "23.9"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.8",
+          "features2d": "19.7"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "9.7",
+          "features2d": "22.1"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "54.9",
+          "features2d": "20.8"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.3",
+          "features2d": "16.3"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.8",
+          "features2d": "20.5"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.5",
+          "features2d": "30.1"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "48.0",
+          "features2d": "22.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "43.6",
+          "features2d": "18.5"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "65.9",
+          "features2d": "77.1"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "5.5",
+          "features2d": "66.4"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "65.2",
+          "features2d": "86.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "18.9",
+          "features2d": "19.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.7",
+          "features2d": "82.3"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "20.0",
+          "features2d": "54.7"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "48.0",
+          "features2d": "29.1"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "46.9",
+          "features2d": "68.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.5",
+          "features2d": "71.7"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.7",
+          "features2d": "84.3"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.5",
+          "features2d": "25.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.9",
+          "features2d": "92.5"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.5",
+          "features2d": "68.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "68.4",
+          "features2d": "30.4"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "63.3",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.1",
+          "features2d": "68.6"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.6",
+          "features2d": "21.6"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.4",
+          "features2d": "73.6"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "4.6",
+          "features2d": "69.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "8.6",
+          "features2d": "30.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "7.2",
+          "features2d": "81.5"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.7",
+          "features2d": "20.1"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "86.5",
+          "features2d": "82.3"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.3",
+          "features2d": "69.1"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "62.2",
+          "features2d": "32.3"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "58.9",
+          "features2d": "72.0"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.5",
+          "features2d": "20.7"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.6",
+          "features2d": "26.3"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "21.8",
+          "features2d": "26.5"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "19.8",
+          "features2d": "28.3"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.5",
+          "features2d": "57.0"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "68.3",
+          "features2d": "31.2"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "63.8",
+          "features2d": "75.9"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "22.1",
+          "features2d": "26.0"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "20.9",
+          "features2d": "62.9"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "48.1",
+          "features2d": "30.4"
+        },
+        {
+          "urls": [
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-abelal16-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.6",
+          "features2d": "81.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.7",
+          "features2d": "81.4"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "62.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "75.4",
+          "features2d": "73.5"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "51.0",
+          "features2d": "68.8"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.4",
+          "features2d": "70.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.7",
+          "features2d": "88.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.5",
+          "features2d": "90.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "36.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.2",
+          "features2d": "79.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.9",
+          "features2d": "73.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "88.7",
+          "features2d": "87.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.6",
+          "features2d": "20.3"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "29.1",
+          "features2d": "76.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.7",
+          "features2d": "70.8"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "67.0",
+          "features2d": "32.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abatheja-2016.herokuapp.com|||vendor.html",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "64.8",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-aterriqu-2016.herokuapp.com|||"
+          ],
+          "ssim": "97.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "31.8"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "70.4",
+          "features2d": "54.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "51.2",
+          "features2d": "54.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.8",
+          "features2d": "65.7"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.9",
+          "features2d": "95.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "92.6",
+          "features2d": "71.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "62.1",
+          "features2d": "32.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.7",
+          "features2d": "76.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.1",
+          "features2d": "72.1"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "87.8",
+          "features2d": "80.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.7",
+          "features2d": "25.9"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "28.5",
+          "features2d": "72.6"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.5",
+          "features2d": "73.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "68.2",
+          "features2d": "38.2"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-abelal16-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "63.5",
+          "features2d": "82.8"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-christyyy-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "34.5"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "75.1",
+          "features2d": "59.9"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "52.1",
+          "features2d": "61.2"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "86.6",
+          "features2d": "70.4"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.2",
+          "features2d": "73.9"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "93.1",
+          "features2d": "76.3"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "35.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "67.0",
+          "features2d": "74.1"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "91.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.3",
+          "features2d": "85.4"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "88.4",
+          "features2d": "79.6"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.2",
+          "features2d": "20.7"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "29.1",
+          "features2d": "81.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "27.2",
+          "features2d": "57.4"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "69.6",
+          "features2d": "33.1"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-aterriqu-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "64.9",
+          "features2d": "83.9"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-crloflin-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.3",
+          "features2d": "58.9"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "69.6",
+          "features2d": "28.4"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "79.4"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "32.5",
+          "features2d": "41.6"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "20.4"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "38.1"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.3",
+          "features2d": "43.1"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.7",
+          "features2d": "24.5"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "21.2"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "13.4"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "96.8",
+          "features2d": "21.3"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "33.6"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "19.6"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-christyyy-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "32.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-dengc-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.9",
+          "features2d": "49.6"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "58.6",
+          "features2d": "57.5"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.7",
+          "features2d": "70.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "65.0",
+          "features2d": "75.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "65.0",
+          "features2d": "42.3"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "22.1",
+          "features2d": "57.8"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "69.2",
+          "features2d": "78.1"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "44.4",
+          "features2d": "69.3"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.2",
+          "features2d": "19.4"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "18.0",
+          "features2d": "51.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.9",
+          "features2d": "48.4"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "58.4",
+          "features2d": "24.9"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "1.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-crloflin-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "50.2",
+          "features2d": "66.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-huayifang-2016.herokuapp.com|||"
+          ],
+          "ssim": "47.8",
+          "features2d": "52.2"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.7",
+          "features2d": "64.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.8",
+          "features2d": "62.9"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "20.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "32.8",
+          "features2d": "24.7"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "61.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "45.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "25.8",
+          "features2d": "65.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "50.6",
+          "features2d": "63.9"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "14.9",
+          "features2d": "18.4"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "39.7",
+          "features2d": "55.1"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.4",
+          "features2d": "37.3"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "36.3",
+          "features2d": "32.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-dengc-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "35.3",
+          "features2d": "63.6"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-lheston-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.6",
+          "features2d": "66.2"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "83.9",
+          "features2d": "73.1"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "57.9",
+          "features2d": "42.8"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "63.1",
+          "features2d": "84.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "10.4",
+          "features2d": "75.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "79.5",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.7",
+          "features2d": "16.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "28.7",
+          "features2d": "67.6"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.9",
+          "features2d": "46.8"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "62.3",
+          "features2d": "23.3"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-huayifang-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "59.1",
+          "features2d": "73.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-megahenry-2016.herokuapp.com|||"
+          ],
+          "ssim": "57.6",
+          "features2d": "85.1"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "-0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "47.2",
+          "features2d": "22.3"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.8",
+          "features2d": "81.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "19.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "63.0",
+          "features2d": "73.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "46.5",
+          "features2d": "87.8"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.5",
+          "features2d": "20.8"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.5",
+          "features2d": "80.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "17.7",
+          "features2d": "78.2"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "42.6",
+          "features2d": "27.4"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-lheston-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "35.6",
+          "features2d": "90.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-mgogte-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "56.8",
+          "features2d": "24.4"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.3",
+          "features2d": "88.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.1",
+          "features2d": "73.6"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.1",
+          "features2d": "20.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "28.8",
+          "features2d": "76.3"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.0",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "65.1",
+          "features2d": "43.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-megahenry-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "61.6",
+          "features2d": "80.1"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-mvaidya-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "-0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "98.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mgogte-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pherrod-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.7",
+          "features2d": "23.9"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "9.7",
+          "features2d": "22.1"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "55.0",
+          "features2d": "20.7"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "21.3",
+          "features2d": "16.3"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "17.4",
+          "features2d": "20.5"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.5",
+          "features2d": "30.1"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "48.0",
+          "features2d": "22.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-mvaidya-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "43.6",
+          "features2d": "27.9"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-pjt90-2016.herokuapp.com|||"
+          ],
+          "ssim": "55.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "5.5",
+          "features2d": "66.4"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "65.8",
+          "features2d": "84.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "18.9",
+          "features2d": "19.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "22.7",
+          "features2d": "66.3"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "20.0",
+          "features2d": "54.7"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "48.0",
+          "features2d": "29.1"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pherrod-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "46.9",
+          "features2d": "74.3"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-pmittal115-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "82.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "29.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "67.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pjt90-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "44.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-prachimane-2016.herokuapp.com|||"
+          ],
+          "ssim": "12.2",
+          "features2d": "68.5"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.6",
+          "features2d": "21.6"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "77.1",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "4.6",
+          "features2d": "69.2"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "8.6",
+          "features2d": "30.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-pmittal115-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "7.3",
+          "features2d": "80.3"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.7",
+          "features2d": "20.1"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "26.8",
+          "features2d": "77.7"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "24.4",
+          "features2d": "68.8"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "62.5",
+          "features2d": "32.3"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-prachimane-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "59.1",
+          "features2d": "81.4"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "greenironhack-tanmayee123-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.0",
+          "features2d": "18.0"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "11.6",
+          "features2d": "26.3"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "21.8",
+          "features2d": "26.5"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-sabrina-hsu-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "19.8",
+          "features2d": "27.5"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "greenironhack-taycurt17-2016.herokuapp.com|||"
+          ],
+          "ssim": "7.6",
+          "features2d": "51.8"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "19.9",
+          "features2d": "34.3"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-tanmayee123-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "28.5",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "lostkuma.herokuapp.com|||"
+          ],
+          "ssim": "22.1",
+          "features2d": "26.0"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "greenironhack-taycurt17-2016.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "20.9",
+          "features2d": "60.6"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html"
+          ],
+          "ssim": "0.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "lostkuma.herokuapp.com|||",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "48.2",
+          "features2d": "30.8"
+        },
+        {
+          "urls": [
+            "rawgit.com|||priyankjain|||2016-purdue-ironhack-tutorials|||master|||2016-purdue-ironhacks-tutorial-project.html",
+            "sauravn-application.herokuapp.com|||"
+          ],
+          "ssim": "0.0",
+          "features2d": "100.0"
+        }
+      ]
+    ]
+  }
+]

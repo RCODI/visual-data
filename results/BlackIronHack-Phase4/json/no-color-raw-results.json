@@ -1,0 +1,3615 @@
+[
+  {
+    "listName": "BlackIronHack-Phase4",
+    "results": [
+      [
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-10-2016.herokuapp.com|||"
+          ],
+          "ssim": "52.0",
+          "features2d": "90.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "31.2",
+          "features2d": "78.1"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.4",
+          "features2d": "91.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "41.0",
+          "features2d": "85.1"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "41.3",
+          "features2d": "76.7"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "48.4",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.1",
+          "features2d": "88.2"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.7",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "43.6",
+          "features2d": "89.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "66.5",
+          "features2d": "77.6"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "59.2",
+          "features2d": "96.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "23.8",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "38.5",
+          "features2d": "77.6"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "40.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "79.4"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "84.1"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "56.7",
+          "features2d": "77.3"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "95.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "79.4"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "79.4"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "79.4"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "80.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "42.1",
+          "features2d": "80.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "35.2",
+          "features2d": "80.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "42.1",
+          "features2d": "80.6"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "55.2",
+          "features2d": "77.4"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "55.2",
+          "features2d": "78.3"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-1-2016.herokuapp.com|||.png#2"
+          ],
+          "ssim": "94.3",
+          "features2d": "88.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-1-2016.herokuapp.com|||.png#3"
+          ],
+          "ssim": "43.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-1-2016.herokuapp.com|||.png#4"
+          ],
+          "ssim": "75.0",
+          "features2d": "93.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-1-2016.herokuapp.com|||.png#5"
+          ],
+          "ssim": "59.2",
+          "features2d": "85.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-14-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "67.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "83.3",
+          "features2d": "58.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "66.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "77.2",
+          "features2d": "43.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "61.6",
+          "features2d": "69.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "58.8",
+          "features2d": "53.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.3",
+          "features2d": "72.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "14.2",
+          "features2d": "58.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "63.9",
+          "features2d": "77.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-1-2016.herokuapp.com|||.png#3"
+          ],
+          "ssim": "44.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-1-2016.herokuapp.com|||.png#4"
+          ],
+          "ssim": "73.8",
+          "features2d": "98.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-1-2016.herokuapp.com|||.png#5"
+          ],
+          "ssim": "59.7",
+          "features2d": "87.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-14-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "68.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "83.7",
+          "features2d": "56.2"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "67.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "77.2",
+          "features2d": "43.2"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "62.0",
+          "features2d": "69.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "59.8",
+          "features2d": "49.2"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.7",
+          "features2d": "67.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "14.1",
+          "features2d": "58.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#2",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "64.0",
+          "features2d": "74.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-1-2016.herokuapp.com|||.png#4"
+          ],
+          "ssim": "36.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-1-2016.herokuapp.com|||.png#5"
+          ],
+          "ssim": "61.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-14-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "57.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "87.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "57.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "82.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "40.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "35.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "16.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "6.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#3",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-1-2016.herokuapp.com|||.png#5"
+          ],
+          "ssim": "52.1",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-14-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "54.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "79.9",
+          "features2d": "51.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "54.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "74.5",
+          "features2d": "35.2"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "51.3",
+          "features2d": "70.4"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "47.0",
+          "features2d": "46.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "24.3",
+          "features2d": "71.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "10.0",
+          "features2d": "67.1"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#4",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "52.0",
+          "features2d": "73.8"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-14-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "80.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "79.3",
+          "features2d": "94.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "77.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "76.9",
+          "features2d": "55.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "70.6",
+          "features2d": "99.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "67.8",
+          "features2d": "80.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "49.1",
+          "features2d": "83.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "46.8",
+          "features2d": "73.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||.png#5",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "75.1",
+          "features2d": "93.3"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-3-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.2"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "78.3",
+          "features2d": "61.1"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.8"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "76.6",
+          "features2d": "79.6"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-4-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.2"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "78.3",
+          "features2d": "61.1"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.8"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "76.6",
+          "features2d": "79.6"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-5-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.2"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "78.3",
+          "features2d": "61.1"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.8"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "76.6",
+          "features2d": "79.6"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.2"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "78.3",
+          "features2d": "61.1"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.8"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "76.6",
+          "features2d": "79.6"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#2"
+          ],
+          "ssim": "87.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "89.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "81.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "86.6",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "80.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "17.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "89.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-7-2016.herokuapp.com|||#3"
+          ],
+          "ssim": "83.5",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "88.0",
+          "features2d": "66.7"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "90.5",
+          "features2d": "89.1"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "88.3",
+          "features2d": "82.4"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "31.2",
+          "features2d": "48.8"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "9.9",
+          "features2d": "47.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#2",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "84.7",
+          "features2d": "90.5"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-7-2016.herokuapp.com|||#4"
+          ],
+          "ssim": "76.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "82.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "77.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "18.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#3",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "86.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-7-2016.herokuapp.com|||#5"
+          ],
+          "ssim": "87.2",
+          "features2d": "65.2"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "84.3",
+          "features2d": "52.8"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "78.3",
+          "features2d": "64.4"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "78.3",
+          "features2d": "64.4"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "27.2",
+          "features2d": "45.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "6.4",
+          "features2d": "43.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#4",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "78.3",
+          "features2d": "64.4"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "blackironhack-7-2016.herokuapp.com|||#6"
+          ],
+          "ssim": "71.4",
+          "features2d": "77.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "32.9",
+          "features2d": "71.1"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.9",
+          "features2d": "72.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#5",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "78.2",
+          "features2d": "95.6"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#6",
+            "blackironhack-8-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "76.6",
+          "features2d": "80.8"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#6",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "76.6",
+          "features2d": "80.8"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#6",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "26.1",
+          "features2d": "39.1"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#6",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "21.8",
+          "features2d": "51.3"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||#6",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "76.6",
+          "features2d": "80.8"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||#1",
+            "blackironhack-9-2016.herokuapp.com|||#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "71.2"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "23.8",
+          "features2d": "65.4"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2"
+          ],
+          "ssim": "17.2",
+          "features2d": "70.3"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#1",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "33.4",
+          "features2d": "73.4"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||#2",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html#1"
+          ],
+          "ssim": "23.8",
+          "features2d": "68.4"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-10-2016.herokuapp.com|||"
+          ],
+          "ssim": "48.6",
+          "features2d": "88.1"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "43.0",
+          "features2d": "97.7"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "47.9",
+          "features2d": "89.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "78.4",
+          "features2d": "94.3"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "35.5",
+          "features2d": "66.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "61.7",
+          "features2d": "95.5"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.0",
+          "features2d": "92.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.9"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "60.1",
+          "features2d": "95.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "2.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "58.1",
+          "features2d": "90.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.9"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "48.1",
+          "features2d": "73.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "68.6",
+          "features2d": "87.7"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "55.7",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "1.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "49.0",
+          "features2d": "95.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "44.7",
+          "features2d": "78.6"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "66.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "84.3"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.3"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "54.6",
+          "features2d": "81.6"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "53.3",
+          "features2d": "78.9"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "94.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "2.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "3.2",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "82.7"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "64.0",
+          "features2d": "83.4"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "78.3",
+          "features2d": "87.2"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "64.0",
+          "features2d": "82.7"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "62.6",
+          "features2d": "79.1"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "62.6",
+          "features2d": "81.0"
+        }
+      ],
+      [
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-10-2016.herokuapp.com|||"
+          ],
+          "ssim": "10.9",
+          "features2d": "34.7"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "16.2",
+          "features2d": "95.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "3.3",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "69.5",
+          "features2d": "62.4"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "40.7",
+          "features2d": "84.2"
+        },
+        {
+          "urls": [
+            "blackironhack-1-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "8.1",
+          "features2d": "57.6"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-12-2016.herokuapp.com|||"
+          ],
+          "ssim": "47.6",
+          "features2d": "73.7"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "1.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "1.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "43.4",
+          "features2d": "73.5"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "50.8",
+          "features2d": "64.2"
+        },
+        {
+          "urls": [
+            "blackironhack-10-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "53.4",
+          "features2d": "59.3"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-14-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "1.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "1.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "72.0",
+          "features2d": "76.0"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "83.9",
+          "features2d": "88.1"
+        },
+        {
+          "urls": [
+            "blackironhack-12-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "89.9",
+          "features2d": "86.5"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-2-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-14-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-3-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "2.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "-1.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-2-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-4-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-3-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-5-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-4-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-6-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-5-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-7-2016.herokuapp.com|||"
+          ],
+          "ssim": "2.4",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "-1.1",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-6-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.8",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-8-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "94.6",
+          "features2d": "81.7"
+        },
+        {
+          "urls": [
+            "blackironhack-7-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "85.6",
+          "features2d": "91.5"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-9-2016.herokuapp.com|||"
+          ],
+          "ssim": "100.0",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-8-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "blackironhack-danzheng-2016p2.herokuapp.com|||"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.5"
+        },
+        {
+          "urls": [
+            "blackironhack-9-2016.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "99.9",
+          "features2d": "100.0"
+        },
+        {
+          "urls": [
+            "blackironhack-danzheng-2016p2.herokuapp.com|||",
+            "rawgit.com|||priyankjain|||2016-Purdue-Ironhack-Tutorials|||master|||2016-Purdue-Ironhacks-Tutorial-Project.html"
+          ],
+          "ssim": "90.8",
+          "features2d": "79.1"
+        }
+      ]
+    ]
+  }
+]
