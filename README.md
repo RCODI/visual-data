@@ -1111,3 +1111,5 @@ Another option that `img-ssim` has is that we can opt for resizing the images, m
     ```
 
     This is the value which is exposed outside of the module, being sent to the script which is using the module.
+    
+    # Code and Descriptions written by Jia Lin Cheoh 
